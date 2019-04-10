@@ -1,14 +1,144 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "requestedProjectsToday": "20,298",
+  "proCity": "Santa Fe",
+  "proStateCode": "NM",
+
+  "pwcList": [
+    {
+      "name": "Select One",
+      "id": "-2"
+    },
+    {
+      "name": "–––––– MOST POPULAR ––––––",
+      "id": "-1"
+    },
+    {
+      "name": "Fencing Pro",
+      "id": "30"
+    },
+    {
+      "name": "Flooring Pro",
+      "id": "32"
+    },
+    {
+      "name": "Gutter Contractor",
+      "id": "65"
+    },
+    {
+      "name": "HVAC Pro",
+      "id": "39"
+    },
+    {
+      "name": "Insulation Pro",
+      "id": "46"
+    },
+    {
+      "name": ">Mason/Concrete Pro",
+      "id": "16"
+    },
+    {
+      "name": "Plumber",
+      "id": "60"
+    },
+    {
+      "name": "Remodeler",
+      "id": "2"
+    },
+    {
+      "name": "Roofing Pro",
+      "id": "65"
+    },
+    {
+      "name": "Siding Pro",
+      "id": "69"
+    },
+    {
+      "name": "Tree Service Pro",
+      "id": "79"
+    },
+    {
+      "name": "Window/Door Pro",
+      "id": "22"
+    },
+    {
+      "name": "–––––– ALL SERVICES ––––––",
+      "id": "0"
+    },
+    {
+      "name": "Architect",
+      "id": "5"
+    },
+    {
+      "name": "Cabinets/Countertops Pro",
+      "id": "8"
+    },
+    {
+      "name": "Carpenter",
+      "id": "9"
+    },
+    {
+      "name": "Cleaning Pro - Exterior",
+      "id": "13"
+    },
+    {
+      "name": "Cleaning Pros - Interior/Maid Service",
+      "id": "50"
+    },
+    {
+      "name": "Deck Builder",
+      "id": "17"
+    },
+    {
+      "name": "Designer/Engineer",
+      "id": "5"
+    },
+    {
+      "name": "Drywall/Plaster Pro",
+      "id": "59"
+    },
+    {
+      "name": "Electrician",
+      "id": "25"
+    },
+    {
+      "name": "Garage Door Pro",
+      "id": "36"
+    },
+    {
+      "name": "Handyman",
+      "id": "40"
+    },
+    {
+      "name": "Home Inspector",
+      "id": "42"
+    },
+    {
+      "name": "Home Media Pro",
+      "id": "6"
+    },
+    {
+      "name": "Landscaper",
+      "id": "47"
+    },
+    {
+      "name": "Other",
+      "id": "53"
+    },
+    {
+      "name": "Painter",
+      "id": "55"
+    },
+    {
+      "name": "Pools Pro",
+      "id": "61"
+    },
+    {
+      "name": "Solar Pro",
+      "id": "102"
+    },
+    {
+      "name": "Tile Pro",
+      "id": "74"
+    }
+  ]
 }
